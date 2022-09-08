@@ -255,3 +255,19 @@ footer{
 .icons{
     color: #10847e;
 }
+.order{
+    border:1px solid #10847e;
+    background-color: #10847e;
+    color: white;
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+    margin-left: 10%;
+    padding: 8px;
+    font-size:14px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.order:active{
+    background-color: #105551 ;
+}
