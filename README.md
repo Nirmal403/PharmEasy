@@ -1,7 +1,7 @@
 <h1>PharmEasy</h1>
 PharmEasy is one of India's most trusted online pharmacy & medical stores offering pharmaceutical and healthcare products. A web application to buy medicines and book lab test appointments.
 
-### Live deployed URL: https://pharmeasyin.netlify.app/
+### Live deployed URL: https://pharm-easy-beta.vercel.app/
 
 ### Blog URL: https://medium.com/@ribhar/project-pharmeasy-clone-1d571b2c0839
 
